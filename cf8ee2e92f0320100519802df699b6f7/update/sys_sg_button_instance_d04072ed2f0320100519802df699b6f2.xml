@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Incident Task)">184072ed2f0320100519802df699b6eb</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident Task)</name>
+        <order/>
+        <parent>c04072ed2f0320100519802df699b6de</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 11:10:04</sys_created_on>
+        <sys_id>d04072ed2f0320100519802df699b6f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Incident Task)</sys_name>
+        <sys_package display_value="My Application" source="x_301919_my_app">cf8ee2e92f0320100519802df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Application">cf8ee2e92f0320100519802df699b6f7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d04072ed2f0320100519802df699b6f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:10:04</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d04072ed2f0320100519802df699b6f2"/>
+</record_update>

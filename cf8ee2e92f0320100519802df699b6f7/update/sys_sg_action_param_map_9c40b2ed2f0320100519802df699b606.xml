@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (My Table)">9c40b2ed2f0320100519802df699b605</button>
+        <item_parameter display_value="My Table field1">1040b2ed2f0320100519802df699b605</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 11:10:05</sys_created_on>
+        <sys_id>9c40b2ed2f0320100519802df699b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1040b2ed2f0320100519802df699b605</sys_name>
+        <sys_package display_value="My Application" source="x_301919_my_app">cf8ee2e92f0320100519802df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Application">cf8ee2e92f0320100519802df699b6f7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9c40b2ed2f0320100519802df699b606</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:10:05</sys_updated_on>
+        <ui_parameter display_value="Field1">9040b2ed2f0320100519802df699b606</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
